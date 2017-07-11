@@ -1,2 +1,2 @@
 # SpaceInvader responsive
-This my responsive SpaceInvade made ( with bootstrap ) for the WildCodeSchool.
+This my responsive SpaceInvader made ( with bootstrap ) for the WildCodeSchool.
